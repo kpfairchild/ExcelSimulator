@@ -1,0 +1,20 @@
+\bar{x} = \dfrac{\sum_{i=1}^{n} x_i}{n}
+
+\bar{x} = \drac{1}{1+1+\ldots+1}
+
+\begin{align}
+\bar{x} &= \dfrac{1\cdot x_1+1\cdot x_2+\ldots+1\cdot x_n}{1+1+\ldots+1}
+\end{align}
+
+
+ 
+\begin{align*}
+\bar{x} &= \dfrac{w_1\cdot x_1+w_2\cdot x_2+\ldots+w_n\cdot x_n}{w_1+w_2+\ldots+w_n} \\
+&= \dfrac{\sum\limits_{i=1}^{n} w_i\cdot x_{i}}{\sum\limits_{i=1}^{n} w_i}
+\end{align*}
+
+\begin{align*}
+SOP_A &= \dfrac{\sum\limits_{i=1}^n Prob(Choice_i = A)}{n}
+\end{align*}
+
+https://quicklatex.com/
